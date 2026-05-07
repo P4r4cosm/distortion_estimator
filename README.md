@@ -1,6 +1,6 @@
 # Программный комплекс параметрической идентификации аудиоэффектов
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
 ![Gradio](https://img.shields.io/badge/UI-Gradio-ff7c00)
 
@@ -30,9 +30,9 @@
 
 ---
 
-## 🛠 Установка и развертывание
+## Установка и развертывание
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone [https://github.com/ВАШ_НИКНЕЙМ/ВАШ_РЕПОЗИТОРИЙ.git](https://github.com/ВАШ_НИКНЕЙМ/ВАШ_РЕПОЗИТОРИЙ.git)
-   cd ВАШ_РЕПОЗИТОРИЙ
+   git clone https://github.com/P4r4cosm/distortion_estimator.git
+   cd distortion_estimator
